@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\finalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\data\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\data\\roleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\api\\controllers\\basiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\api\\controllers\\basiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Migrations\\20240609150649_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPages\\Migrations\\20240609150649_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|c:\\users\\user\\source\\repos\\finalproject\\razorpages\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69321585-01FE-4433-B920-EDF2CB78B8F0}|RazorPages\\RazorPages.csproj|solutionrelative:razorpages\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C7D5F6-75CC-4528-A679-4E3BA21CFCF7}|SoapClient\\SoapClient.csproj|c:\\users\\user\\source\\repos\\finalproject\\soapclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C7D5F6-75CC-4528-A679-4E3BA21CFCF7}|SoapClient\\SoapClient.csproj|solutionrelative:soapclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|c:\\users\\user\\source\\repos\\finalproject\\soapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|solutionrelative:soapservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|c:\\users\\user\\source\\repos\\finalproject\\soapservice\\servicecontract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|solutionrelative:soapservice\\servicecontract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|c:\\users\\user\\source\\repos\\finalproject\\soapservice\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|solutionrelative:soapservice\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|c:\\users\\user\\source\\repos\\finalproject\\soapservice\\servicecontract\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78D7DBC-5E47-41BA-A88B-8649E5F79B25}|SoapService\\SoapService.csproj|solutionrelative:soapservice\\servicecontract\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F12B2B9-433B-4FB5-9E3B-C56A96080071}|SuperAPI\\RestApi.csproj|c:\\users\\user\\source\\repos\\finalproject\\superapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F12B2B9-433B-4FB5-9E3B-C56A96080071}|SuperAPI\\RestApi.csproj|solutionrelative:superapi\\restapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T15:35:21.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240609150649_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Migrations\\20240609150649_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Migrations\\20240609150649_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Migrations\\20240609150649_InitialCreate.cs",
+              "RelativeToolTip": "RazorPages\\Migrations\\20240609150649_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:06:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPages\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\appsettings.json",
+              "RelativeToolTip": "RazorPages\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T13:03:44.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Data\\RoleInitializer.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Data\\RoleInitializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Data\\RoleInitializer.cs",
+              "RelativeToolTip": "RazorPages\\Data\\RoleInitializer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:23:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RazorPages\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:22:30.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Program.cs",
+              "RelativeToolTip": "RazorPages\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:21:35.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "RazorPages\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:20:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasicController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Api\\Controllers\\BasicController.cs",
+              "RelativeDocumentMoniker": "RazorPages\\Api\\Controllers\\BasicController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\RazorPages\\Api\\Controllers\\BasicController.cs",
+              "RelativeToolTip": "RazorPages\\Api\\Controllers\\BasicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:20:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SoapClient\\Program.cs",
+              "RelativeDocumentMoniker": "SoapClient\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SoapClient\\Program.cs",
+              "RelativeToolTip": "SoapClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:51:21.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\Program.cs",
+              "RelativeDocumentMoniker": "SoapService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\Program.cs",
+              "RelativeToolTip": "SoapService\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvyoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:44:22.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\ServiceContract\\UserService.cs",
+              "RelativeDocumentMoniker": "SoapService\\ServiceContract\\UserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\ServiceContract\\UserService.cs",
+              "RelativeToolTip": "SoapService\\ServiceContract\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:36:59.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\ServiceContract\\IUserService.cs",
+              "RelativeDocumentMoniker": "SoapService\\ServiceContract\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\ServiceContract\\IUserService.cs",
+              "RelativeToolTip": "SoapService\\ServiceContract\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:36:47.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "SoapService\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SoapService\\Entity\\User.cs",
+              "RelativeToolTip": "SoapService\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:36:16.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RestApi.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\finalProject\\SuperAPI\\RestApi.csproj",
+              "RelativeDocumentMoniker": "SuperAPI\\RestApi.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\finalProject\\SuperAPI\\RestApi.csproj",
+              "RelativeToolTip": "SuperAPI\\RestApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T09:19:33.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
