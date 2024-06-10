@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Components.Web.Virtualization;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Components.Web.Virtualization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SuperAPI.Data;
 using SuperAPI.Entities;
+using Swashbuckle.AspNetCore.Annotations;
 
 namespace SuperAPI.Controllers
 {
@@ -17,7 +19,7 @@ namespace SuperAPI.Controllers
         {
             _context = context;
         }
-
+        [Authorize]
         [HttpGet]
         public async Task<ActionResult<List<SuperHero>>> GetAllHeroes()
         {
@@ -25,7 +27,7 @@ namespace SuperAPI.Controllers
 
             return Ok(heroes);
         }
-
+        [Authorize]
         [HttpGet("{id}")]
         public async Task<ActionResult<List<SuperHero>>> GetHero(int id)
         {
@@ -35,7 +37,7 @@ namespace SuperAPI.Controllers
 
             return Ok(hero);
         }
-
+        [Authorize]
         [HttpPost]
         public async Task<ActionResult<List<SuperHero>>> AddHero(SuperHero hero)
         {
@@ -44,7 +46,7 @@ namespace SuperAPI.Controllers
 
             return Ok(await _context.SuperHeroes.ToListAsync());
         }
-
+        [Authorize]
         [HttpPut]
         public async Task<ActionResult<List<SuperHero>>> UpdateHero (SuperHero updatedHero)
         {
@@ -63,7 +65,7 @@ namespace SuperAPI.Controllers
 
             return Ok(await _context.SuperHeroes.ToListAsync());
         }
-
+        [Authorize]
         [HttpDelete]
         public async Task<ActionResult<List<SuperHero>>> DeleteHero(int id)
         {

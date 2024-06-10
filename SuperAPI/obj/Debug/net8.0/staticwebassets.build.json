@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "l4EbEmXmhnrhicNW2lztyK15eQ5J4DO6wvkWGS5Z2aI=",
-  "Source": "RestApi",
-  "BasePath": "_content/RestApi",
+  "Hash": "nuZY7PUXSwc4FHLpyK2z49PeNH3XB6Ww43wH/P7zuxU=",
+  "Source": "SuperAPI",
+  "BasePath": "_content/SuperAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

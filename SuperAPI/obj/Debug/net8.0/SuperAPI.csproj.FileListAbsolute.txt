@@ -140,3 +140,13 @@ C:\Users\user\source\repos\finalProject\SuperApi\bin\Debug\net8.0\Microsoft.AspN
 C:\Users\user\source\repos\finalProject\SuperApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\user\source\repos\finalProject\SuperApi\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\user\source\repos\finalProject\SuperApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\Scrutor.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\SoapCore.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\System.Private.ServiceModel.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\System.ServiceModel.dll
+C:\Users\user\source\repos\finalProject\SuperAPI\obj\Debug\net8.0\SuperAPI.sourcelink.json
+C:\Users\user\source\repos\finalProject\SuperAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
